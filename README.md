@@ -1,1 +1,2 @@
-hey games in a newbie coder but im trying :)
+#why
+hey guys in a newbie coder but im trying :)
