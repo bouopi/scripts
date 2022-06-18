@@ -1,2 +1,1 @@
-# scripts
-working on 
+hey games in a newbie coder but im trying :)
